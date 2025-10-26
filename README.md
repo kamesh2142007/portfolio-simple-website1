@@ -23,4 +23,4 @@ Fully responsive layout (works on mobile and desktop)
  How to Use
 
 Clone or download this repository.
-Open the[link] file in your browser to view the website.
+Open the index.htmlfile in your browser to view the website.
